@@ -1,0 +1,317 @@
+{
+    "smart-home": { 
+      "label": "Умный Дом", 
+      "originalLabel": "Smart Home", 
+      "comment": "Smart Home" 
+    },
+    "write-the-name-of-device": {
+      "label": "Напишите название устройства!", 
+      "originalLabel": "Write the name of device!", 
+      "comment": "Write the name of device!" 
+    },
+    "write-the-number-of-device":{
+      "label": "Напишите номер устройства!", 
+      "originalLabel": "Write the IP number of device!", 
+      "comment": "Write the IP number of device!" 
+    },
+    "cancel": { 
+      "label": "Отмена", 
+      "originalLabel": "Cancel", 
+      "comment": "Cancel" 
+    },
+    "ok": { 
+      "label": "Ok", 
+      "originalLabel": "Ok", 
+      "comment": "Ok" 
+    },
+    "device-is-connected": { 
+      "label": "Устройство подключено!", 
+      "originalLabel": "device-is-connected", 
+      "comment": "device-is-connected" 
+    },
+    "device-is-not-connected-Do-you-want-to-repeat": { 
+      "label": "Устройство не подключено! Вы хотите повторить?", 
+      "originalLabel": "device-is-not-connected-Do-you-want-to-repeat", 
+      "comment": "device-is-not-connected-Do-you-want-to-repeat" 
+    },
+    "no": { 
+      "label": "Нет", 
+      "originalLabel": "no", 
+      "comment": "no" 
+    },
+    "yes": { 
+      "label": "Да", 
+      "originalLabel": "Yes", 
+      "comment": "Yes" 
+    },
+    "settings": {
+      "label": "Настройки", 
+      "originalLabel": "settings", 
+      "comment": "settings"
+    },
+    "theme": {
+      "label": "Тема", 
+      "originalLabel": "theme", 
+      "comment": "theme" 
+    },
+    "language": {
+      "label": "Язык", 
+      "originalLabel": "language", 
+      "comment": "language" 
+    },
+    "Lost-connection-to-device": {
+      "label": "Потеряно подключение к устройству ", 
+      "originalLabel": "Lost connection to device", 
+      "comment": "Lost connection to device" 
+    },
+    "Try-to-connect-to-the-device": {
+      "label": " Попробуйте подключиться к устройству!", 
+      "originalLabel": "Try to connect to the device!", 
+      "comment": "Try to connect to the device!"
+    },
+    "disconnected":{
+      "label": " Отключиться", 
+      "originalLabel": "disconnected", 
+      "comment": "disconnected" 
+    },
+    "connected":{
+      "label": " Подключиться", 
+      "originalLabel": "connected", 
+      "comment": "connected" 
+    },
+    "no-found-devices":{
+      "label": " Не найдено устройств!", 
+      "originalLabel": "no-found-devices", 
+      "comment": "no-found-devices" 
+    },
+    "mm":{
+      "label": " мм", 
+      "originalLabel": "mm", 
+      "comment": "mm" 
+    },
+    "rename-device":{
+      "label": "Переименовать устройство", 
+      "originalLabel": "Rename device", 
+      "comment": "Rename device" 
+    },
+    "name":{
+      "label": "Название", 
+      "originalLabel": "Name", 
+      "comment": "Name" 
+    },
+    "number":{
+      "label": "Номер", 
+      "originalLabel": "number", 
+      "comment": "number" 
+    },
+    "add-item":{
+      "label": "Добавьте элемент", 
+      "originalLabel": "Add item", 
+      "comment": "Add item" 
+    },
+    "this-item-is-already-selected":{
+      "label": "Этот элемент уже выбран!", 
+      "originalLabel": "This item is already selected!", 
+      "comment": "This item is already selected!" 
+    },
+    "wrong-values-entered":{
+      "label": "Неправильно введены значения!", 
+      "originalLabel": "Wrong values entered", 
+      "comment": "Wrong values entered" 
+    },
+    "element-does-not-exist":{
+      "label": "Элемента не существует!", 
+      "originalLabel": "element does not exist", 
+      "comment": "element does not exist" 
+    },
+    "are-you-sure-you-want-to-delete-this-item":{
+      "label": "Вы уверены, что хотите удалить этот элемент?", 
+      "originalLabel": "Are you sure you want to delete this item?", 
+      "comment": "Are you sure you want to delete this item?" 
+    },
+    "delete":{
+      "label": "Удалить", 
+      "originalLabel": "delete", 
+      "comment": "delete" 
+    },
+    "edit-item":{
+      "label": "Редактировать элемент", 
+      "originalLabel": "edit item", 
+      "comment": "edit item" 
+    },
+    "control":{
+      "label": "Управление", 
+      "originalLabel": "control", 
+      "comment": "control"
+    },
+    "calibration":{
+      "label": "Калибровка", 
+      "originalLabel": "calibration", 
+      "comment": "calibration"
+    },
+    "no-found-curtains":{
+      "label": " Шторы не найдены", 
+      "originalLabel": "no found curtains", 
+      "comment": "no found curtains"
+    },
+    "are-you-sure-you-want-to-delete-this-command":{
+      "label": "Вы уверены, что хотите удалить эту команду?", 
+      "originalLabel": "Are you sure you want to delete this command?", 
+      "comment": "Are you sure you want to delete this command?"
+    },
+    "on":{
+      "label": "Включить", 
+      "originalLabel": "Turn on", 
+      "comment": "Turn on"
+    },
+    "off":{
+      "label": "Выключить", 
+      "originalLabel": "Turn off", 
+      "comment": "Turn off"
+    },
+    "edit-command":{
+      "label": "Редактировать команду", 
+      "originalLabel": "Edit command", 
+      "comment": "Edit command"
+    },
+    "add-command":{
+      "label": "Добавить команду", 
+      "originalLabel": "Add command", 
+      "comment": "Add command"
+    },
+    "not_calibrated":{
+      "label": "Не откалибровано", 
+      "originalLabel": "Not calibrated", 
+      "comment": "Not calibrated"
+    },
+    "calibration_motor":{
+      "label": "Откалибровать мотор", 
+      "originalLabel": "Calibration motor", 
+      "comment": "Calibration motor"
+    },
+    "warning":{
+      "label": "Предупреждение!", 
+      "originalLabel": "Warning!", 
+      "comment": "Warning!"
+    },
+    "your_motor_is_not_calibrated_choose_its_position_now":{
+      "label": "Ваш мотор не откалиброванный, выберете его положение сейчас!", 
+      "originalLabel": "Your motor is not calibrated, choose its position now!", 
+      "comment": "Your motor is not calibrated, choose its position now!"
+    },
+    "edit-room":{
+      "label": "Редактировать комнату", 
+      "originalLabel": "Edit room", 
+      "comment": "Edit room"
+    },
+    "add-room":{
+      "label": "Добавить комнату", 
+      "originalLabel": "Add room", 
+      "comment": "Add room"
+    },
+    "gallery":{
+      "label": "Галерея", 
+      "originalLabel": "Gallery", 
+      "comment": "Gallery"
+    },
+    "camera":{
+      "label": "Камера", 
+      "originalLabel": "Camera", 
+      "comment": "Camera"
+    },
+    "Are-you-sure-you-want-exit":{
+      "label": "Вы уверены что хотите выйти?", 
+      "originalLabel": "Are you sure you want exit", 
+      "comment": "Are you sure you want exit"
+    },
+    "exit":{
+      "label": "Выход", 
+      "originalLabel": "exit", 
+      "comment": "exit"
+    },
+    "curtains":{
+      "label": "Шторы", 
+      "originalLabel": "curtains", 
+      "comment": "curtains"
+    },
+    "electricity":{
+      "label": "Электричество", 
+      "originalLabel": "electricity", 
+      "comment": "electricity"
+    },
+    "thermostat":{
+      "label": "Термостат", 
+      "originalLabel": "thermostat", 
+      "comment": "thermostat"
+    },
+    "humidity":{
+      "label": "Влажность", 
+      "originalLabel": "humidity", 
+      "comment": "humidity"
+    },
+    "you-choise-another-index-for-this-item":{
+      "label": "Вы выбрали другой индекс для этого элемента!", 
+      "originalLabel": "you choise another index for this item", 
+      "comment": "you choise another index for this item"
+    },
+    "choise-item":{
+      "label": "Выберите элемент!", 
+      "originalLabel": "Choise item!", 
+      "comment": "Choise item!"
+    },
+    "information":{
+      "label": "Информация", 
+      "originalLabel": "information", 
+      "comment": "information"
+    },
+    "outdoor-temperature":{
+      "label": "Температура на улице", 
+      "originalLabel": "Outdoor temperature", 
+      "comment": "Outdoor temperature"
+    },
+    "outdoor-humidity":{
+      "label": "Влажность на улице", 
+      "originalLabel": "Outdoor humidity", 
+      "comment": "Outdoor humidity"
+    },
+    "pressure":{
+      "label": "Давление", 
+      "originalLabel": "Pressure", 
+      "comment": "Pressure"
+    },
+    "weather-forecast":{
+      "label": "Прогноз погоды", 
+      "originalLabel": "Weather forecast", 
+      "comment": "Weather forecast"
+    },
+    "temperature-in-the-house":{
+      "label": "Температура в доме", 
+      "originalLabel": "Temperature in the house", 
+      "comment": "Temperature in the house"
+    },
+    "humidity-in-the-house":{
+      "label": "Влажность в доме", 
+      "originalLabel": "Humidity in the house", 
+      "comment": "Humidity in the house"
+    },
+    "on-ControlItem":{
+      "label": "Включено", 
+      "originalLabel": "On", 
+      "comment": "On"
+    },
+    "off-ControlItem":{
+      "label": "Выключено", 
+      "originalLabel": "Off", 
+      "comment": "Off"
+    },
+    "complete":{
+      "label": "Завершить", 
+      "originalLabel": "Complete", 
+      "comment": "Complete"
+    },
+    "speak":{
+      "label": "Говорите...", 
+      "originalLabel": "Speak...", 
+      "comment": "Speak..."
+    }
+  }

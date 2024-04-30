@@ -1,0 +1,317 @@
+{
+  "smart-home": { 
+    "label": "Inteligentny Dom", 
+    "originalLabel": "Smart Home", 
+    "comment": "Smart Home" 
+  },
+  "write-the-name-of-device": {
+    "label": "Wpisz nazwę urządzenia!", 
+    "originalLabel": "Write the name of device!", 
+    "comment": "Write the name of device!" 
+  },
+  "write-the-number-of-device":{
+    "label": "Wpisz numer urządzenia!", 
+    "originalLabel": "Write the IP number of device!", 
+    "comment": "Write the IP number of device!" 
+  },
+  "cancel": { 
+    "label": "Anuluj", 
+    "originalLabel": "Cancel", 
+    "comment": "Cancel" 
+  },
+  "ok": { 
+    "label": "Ok", 
+    "originalLabel": "Ok", 
+    "comment": "Ok" 
+  },
+  "device-is-connected": { 
+    "label": "Urządzenie jest podłączone!", 
+    "originalLabel": "device-is-connected", 
+    "comment": "device-is-connected" 
+  },
+  "device-is-not-connected-Do-you-want-to-repeat": { 
+    "label": "Urządzenie nie jest podłączone! Czy chcesz spróbować jeszcze raz?", 
+    "originalLabel": "device-is-not-connected-Do-you-want-to-repeat", 
+    "comment": "device-is-not-connected-Do-you-want-to-repeat" 
+  },
+  "no": { 
+    "label": "Nie", 
+    "originalLabel": "no", 
+    "comment": "no" 
+  },
+  "yes": { 
+    "label": "Tak", 
+    "originalLabel": "Yes", 
+    "comment": "Yes" 
+  },
+  "settings": {
+    "label": "Ustawienia", 
+    "originalLabel": "settings", 
+    "comment": "settings"
+  },
+  "theme": {
+    "label": "Motyw", 
+    "originalLabel": "theme", 
+    "comment": "theme" 
+  },
+  "language": {
+    "label": "Język", 
+    "originalLabel": "language", 
+    "comment": "language" 
+  },
+  "Lost-connection-to-device": {
+    "label": "Utracono połączenie z urządzeniem ", 
+    "originalLabel": "Lost connection to device", 
+    "comment": "Lost connection to device" 
+  },
+  "Try-to-connect-to-the-device": {
+    "label": " Spróbuj połączyć się z urządzeniem!", 
+    "originalLabel": "Try to connect to the device!", 
+    "comment": "Try to connect to the device!"
+  },
+  "disconnected":{
+    "label": " Rozłącz się", 
+    "originalLabel": "disconnected", 
+    "comment": "disconnected" 
+  },
+  "connected":{
+    "label": " Połącz się", 
+    "originalLabel": "connected", 
+    "comment": "connected" 
+  },
+  "no-found-devices":{
+    "label": " Nie znaleziono urządzeń!", 
+    "originalLabel": "no-found-devices", 
+    "comment": "no-found-devices" 
+  },
+  "mm":{
+    "label": " mm", 
+    "originalLabel": "mm", 
+    "comment": "mm" 
+  },
+  "rename-device":{
+    "label": "Zmień nazwę urządzenia", 
+    "originalLabel": "Rename device", 
+    "comment": "Rename device" 
+  },
+  "name":{
+    "label": "Nazwa", 
+    "originalLabel": "Name", 
+    "comment": "Name" 
+  },
+  "number":{
+    "label": "Numer", 
+    "originalLabel": "number", 
+    "comment": "number" 
+  },
+  "add-item":{
+    "label": "Dodaj element", 
+    "originalLabel": "Add item", 
+    "comment": "Add item" 
+  },
+  "this-item-is-already-selected":{
+    "label": "Ten element jest już wybrany!", 
+    "originalLabel": "This item is already selected!", 
+    "comment": "This item is already selected!" 
+  },
+  "wrong-values-entered":{
+    "label": "Wprowadzono błędne wartości!", 
+    "originalLabel": "Wrong values entered", 
+    "comment": "Wrong values entered" 
+  },
+  "element-does-not-exist":{
+    "label": "Element nie istnieje!", 
+    "originalLabel": "element does not exist", 
+    "comment": "element does not exist" 
+  },
+  "are-you-sure-you-want-to-delete-this-item":{
+    "label": "Czy na pewno chcesz usunąć ten element?", 
+    "originalLabel": "Are you sure you want to delete this item?", 
+    "comment": "Are you sure you want to delete this item?" 
+  },
+  "delete":{
+    "label": "Usuń", 
+    "originalLabel": "delete", 
+    "comment": "delete" 
+  },
+  "edit-item":{
+    "label": "Edytować element", 
+    "originalLabel": "edit item", 
+    "comment": "edit item" 
+  },
+  "control":{
+    "label": "Regulowanie", 
+    "originalLabel": "control", 
+    "comment": "control"
+  },
+  "calibration":{
+    "label": "Kalibrowanie", 
+    "originalLabel": "calibration", 
+    "comment": "calibration"
+  },
+  "no-found-curtains":{
+    "label": " Nie znaleziono zasłon", 
+    "originalLabel": "no found curtains", 
+    "comment": "no found curtains"
+  },
+  "are-you-sure-you-want-to-delete-this-command":{
+    "label": "Czy na pewno chcesz usunąć to polecenie?", 
+    "originalLabel": "Are you sure you want to delete this command?", 
+    "comment": "Are you sure you want to delete this command?"
+  },
+  "on":{
+    "label": "Włączyć", 
+    "originalLabel": "Turn on", 
+    "comment": "Turn on"
+  },
+  "off":{
+    "label": "Wyłączyć", 
+    "originalLabel": "Turn off", 
+    "comment": "Turn off"
+  },
+  "edit-command":{
+    "label": "Edytuj polecenie", 
+    "originalLabel": "Edit command", 
+    "comment": "Edit command"
+  },
+  "add-command":{
+    "label": "Dodaj polecenie", 
+    "originalLabel": "Add command", 
+    "comment": "Add command"
+  },
+  "not_calibrated":{
+    "label": "Nie skalibrowany", 
+    "originalLabel": "Not calibrated", 
+    "comment": "Not calibrated"
+  },
+  "calibration_motor":{
+    "label": "Skalibruj silnik", 
+    "originalLabel": "Calibration motor", 
+    "comment": "Calibration motor"
+  },
+  "warning":{
+    "label": "Ostrzeżenie!", 
+    "originalLabel": "Warning!", 
+    "comment": "Warning!"
+  },
+  "your_motor_is_not_calibrated_choose_its_position_now":{
+    "label": "Twój silnik nie jest skalibrowany, wybierz teraz jego położenie!", 
+    "originalLabel": "Your motor is not calibrated, choose its position now!", 
+    "comment": "Your motor is not calibrated, choose its position now!"
+  },
+  "edit-room":{
+    "label": "Edytuj pokój", 
+    "originalLabel": "Edit room", 
+    "comment": "Edit room"
+  },
+  "add-room":{
+    "label": "Dodaj pokój", 
+    "originalLabel": "Add room", 
+    "comment": "Add room"
+  },
+  "gallery":{
+    "label": "Galeria", 
+    "originalLabel": "Gallery", 
+    "comment": "Gallery"
+  },
+  "camera":{
+    "label": "Aparat", 
+    "originalLabel": "Camera", 
+    "comment": "Camera"
+  },
+  "Are-you-sure-you-want-exit":{
+    "label": "Czy na pewno chcesz wyjść?", 
+    "originalLabel": "Are you sure you want exit", 
+    "comment": "Are you sure you want exit"
+  },
+  "exit":{
+    "label": "Zamknij", 
+    "originalLabel": "exit", 
+    "comment": "exit"
+  },
+  "curtains":{
+    "label": "Zasłony", 
+    "originalLabel": "curtains", 
+    "comment": "curtains"
+  },
+  "electricity":{
+    "label": "Elektryczność", 
+    "originalLabel": "electricity", 
+    "comment": "electricity"
+  },
+  "thermostat":{
+    "label": "Termostat", 
+    "originalLabel": "thermostat", 
+    "comment": "thermostat"
+  },
+  "humidity":{
+    "label": "Wilgotność", 
+    "originalLabel": "humidity", 
+    "comment": "humidity"
+  },
+  "you-choise-another-index-for-this-item":{
+    "label": "Wybrałeś inny indeks dla tego elementu!", 
+    "originalLabel": "you choise another index for this item", 
+    "comment": "you choise another index for this item"
+  },
+  "choise-item":{
+    "label": "Wybierz element!", 
+    "originalLabel": "Choise item!", 
+    "comment": "Choise item!"
+  },
+  "information":{
+    "label": "Informacja", 
+    "originalLabel": "information", 
+    "comment": "information"
+  },
+  "outdoor-temperature":{
+    "label": "Temperatura zewnętrzna", 
+    "originalLabel": "Outdoor temperature", 
+    "comment": "Outdoor temperature"
+  },
+  "outdoor-humidity":{
+    "label": "Wilgotność na zewnątrz", 
+    "originalLabel": "Outdoor humidity", 
+    "comment": "Outdoor humidity"
+  },
+  "pressure":{
+    "label": "Ciśnienie", 
+    "originalLabel": "Pressure", 
+    "comment": "Pressure"
+  },
+  "weather-forecast":{
+    "label": "Prognoza pogody", 
+    "originalLabel": "Weather forecast", 
+    "comment": "Weather forecast"
+  },
+  "temperature-in-the-house":{
+    "label": "Temperatura w domu", 
+    "originalLabel": "Temperature in the house", 
+    "comment": "Temperature in the house"
+  },
+  "humidity-in-the-house":{
+    "label": "Wilgotność w domu", 
+    "originalLabel": "Humidity in the house", 
+    "comment": "Humidity in the house"
+  },
+  "on-ControlItem":{
+    "label": "Włączony", 
+    "originalLabel": "On", 
+    "comment": "On"
+  },
+  "off-ControlItem":{
+    "label": "Wyłączony", 
+    "originalLabel": "Off", 
+    "comment": "Off"
+  },
+  "complete":{
+    "label": "Wypełnić", 
+    "originalLabel": "Complete", 
+    "comment": "Complete"
+  },
+  "speak":{
+    "label": "Mów...", 
+    "originalLabel": "Speak...", 
+    "comment": "Speak..."
+  }
+}
